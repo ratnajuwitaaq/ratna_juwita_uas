@@ -40,7 +40,7 @@ class SiswaController extends Controller
 
     }
     public function show(string $id)
-    {}
+    
 
    // public function edit($siswa, $id_siswa)
     {        
